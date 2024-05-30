@@ -42,8 +42,12 @@ Estou em busca de uma transição de carreira. Quero voltar a área de TI e atua
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
+### GitHub Most Used Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kriskacg&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kriskacg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
+
 
 ---
 
