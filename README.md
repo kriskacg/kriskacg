@@ -5,7 +5,7 @@
 
 # 👋 Olá, eu sou a Kátia! 
 
-Estou em busca de uma transição de carreira. Quero voltar a área de TI e atualmente estou cursando Ciências da Computação e fazendo uma Pós em Cloud Computing e um MBA em Inteligência Artificial.
+Estou em transição de carreira! Quero voltar à área de TI e, para isso, estou cursando Ciências da Computação, fazendo uma Pós em Cloud Computing e um MBA em Inteligência Artificial.✨💻📚
 
 ---
 ### Conecte-se comigo
