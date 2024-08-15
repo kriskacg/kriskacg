@@ -11,7 +11,7 @@ Estou em transição de carreira! Quero voltar à área de TI e, para isso, esto
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-D5F?style=for-the-badge)](https://web.dio.me/users/kriskacg/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=D5F)](mailto:SEUEMAIL@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=D5F)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=D5F)](https://www.linkedin.com/in/katiagomes-cloud-computing-ai-tecnology/)
 
 ---
 
