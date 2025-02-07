@@ -5,7 +5,7 @@
 
 # 👋 Olá, eu sou a Kátia! 
 
-Estou em transição de carreira! Quero voltar à área de TI e, para isso, estou cursando Ciências da Computação, fazendo uma Pós em Cloud Computing e um MBA em Inteligência Artificial, além de cursos e bootcamps para adquirir e aprofundar novos conhecimentos e especialização prática com a realização de projetos e desafios, que você pode checar em meus repositórios e em meu perfil da DIO🔍😊✨💻📚
+Atualmente estou em transição de carreira e estagiando na área de tecnologia!!! Estou cursando Ciências da Computação e finalizando um MBA em Inteligência Artificial e Gestão de Negócios, além disso, sempre que possível, faço cursos e bootcamps para adquirir e aprofundar novos conhecimentos e especializações práticas com o desenvolvimento de projetos e desafios, que você pode checar nos meus repositórios e em meu perfil da DIO🔍😊✨💻📚
 
 ---
 ### Conecte-se comigo
