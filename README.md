@@ -5,7 +5,7 @@
 
 # 👋 Olá, eu sou a Kátia! 
 
-Atualmente estou em transição de carreira e estagiando na área de tecnologia!!! Estou cursando Ciências da Computação e finalizando um MBA em Inteligência Artificial e Gestão de Negócios, além disso, sempre que possível, faço cursos e bootcamps para adquirir e aprofundar novos conhecimentos e especializações práticas com o desenvolvimento de projetos e desafios, que você pode checar nos meus repositórios e em meu perfil da DIO🔍😊✨💻📚
+Atualmente estou em transição de carreira e estagiando na área de tecnologia!!! Estou cursando Ciências da Computação e finalizando um MBA em Inteligência Artificial e Gestão de Negócios. Além disso, sempre que possível, faço cursos e bootcamps para adquirir e aprofundar novos conhecimentos e especializações práticas com o desenvolvimento de projetos e desafios, que você pode checar nos meus repositórios e em meu perfil da DIO🔍😊✨💻📚
 
 ---
 ### Conecte-se comigo
